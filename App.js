@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
+//Nurul Nadiah Fatin 1619548
 export default class App extends React.Component {
   render() {
     return (
